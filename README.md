@@ -11,7 +11,7 @@ You can click the Preview link to take a look at your changes.
 
 <p align="center">
 	<a href="https://github.com/Xiaofei-Smile365" target="_blank">
-		<img src="https://github-readme-streak-stats.herokuapp.com/?user=Xiaofei-Smile365&theme=highcontrast" width="45%" alt="savuer's github readme streak stats"/>
+		<img src="https://github-readme-streak-stats.herokuapp.com/?user=Xiaofei-Smile365&theme=highcontrast" width="60%" alt="savuer's github readme streak stats"/>
 	</a>
 	<a href="https://github.com/Xiaofei-Smile365" target="_blank">
 		<img src="https://github-readme-stats.vercel.app/api?username=Xiaofei-Smile365&theme=dark&show_icons=true" width="45%" alt="Savuer's github stats"/>
